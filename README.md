@@ -3,6 +3,6 @@
 ## Members
 
 * Hincu Victor-Gabriel
-* Ionica Vlad
+* Ionica Vlad-Daniel
 * Ion Tudor Matei
 
