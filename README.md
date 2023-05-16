@@ -4,7 +4,7 @@
 
 * Hincu Victor-Gabriel
 * Ionica Vlad-Daniel
-* Ion Tudor Matei
+* Ion Tudor-Matei
 
 ## Stories
 
