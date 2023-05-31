@@ -9,6 +9,6 @@ public class WebConfig implements WebMvcConfigurer {
     @Override
     public void addResourceHandlers(ResourceHandlerRegistry registry) {
         registry.addResourceHandler("/media/**")
-                .addResourceLocations("file:/C:/Users/Dizzy/Desktop/Facultate/WAD/Proiect/SizeMatch/src/main/resources/static/media/");
+                .addResourceLocations("file:/C:/Users/Dizzy/Documents/Facultate/WAD/Proiect/SizeMatch/src/main/resources/static/media/");
     }
 }
