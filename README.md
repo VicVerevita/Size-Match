@@ -1,5 +1,7 @@
 # SizeMatch
 
+### This is a university project for the Web App Development Course
+
 ## Members
 
 * Hincu Victor-Gabriel
